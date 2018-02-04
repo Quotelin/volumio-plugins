@@ -283,7 +283,7 @@
 					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/audio_interface/test/test.zip",
 					"license": "ISC",
 					"description": "volumio plugin test",
-					"details": "test",
+					"details": "volumio plugin test",
 					"author": "quotelin",
 					"screenshots": [
 						{
